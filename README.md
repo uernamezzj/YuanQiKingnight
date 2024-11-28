@@ -4,9 +4,10 @@
 
 ## 简介
 - 主题来源：游戏《元气骑士》
-- 适用系统：Windows
+- 适用系统：Windows10及以上
 
-[image](https://github.com/user-attachments/assets/79b71733-b205-4420-a2ec-6212d00c2645)
+![微信图片_20241128171114](https://github.com/user-attachments/assets/fec2015c-b386-4cd3-8535-cfa65628064e)
+
 
 ## 使用方法
 1. 下载光标文件
@@ -17,4 +18,4 @@
 ## 版权说明
 - 本项目仅供学习和个人使用
 - 设计灵感来源于《元气骑士》
-- 需要标注原作者!
+- 需要标注原作者
